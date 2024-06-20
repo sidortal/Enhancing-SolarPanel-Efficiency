@@ -37,7 +37,7 @@ This project aims to enhance the efficiency of solar panels by integrating a the
   [View Block Diagram](https://github.com/sidortal/Enhancing-SolarPanel-Efficiency/blob/main/Enhancing_Solar_Panel_Report.docx)
 
 - **🧰 Thermoelectric Module Integration Guide**
-  [View Integration Guide](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0960148115305127&psig=AOvVaw1lKnpO5GSERHsZWX9FeGP9&ust=1718981234168000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi3o7a26oYDFQAAAAAdAAAAABAZ)
+  [View Integration Guide](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mdpi.com%2F1996-1073%2F17%2F2%2F430&psig=AOvVaw24whZ70PgWJjFLSp5EJrS1&ust=1718981605985000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND2q-e36oYDFQAAAAAdAAAAABAJ)
 
 - **📊 Performance Monitoring Image**
   [View Performance Monitoring Image](https://github.com/sidortal/Enhancing-SolarPanel-Efficiency/blob/main/Enhancing_Solar_panel.mp4)
